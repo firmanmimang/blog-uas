@@ -1,5 +1,6 @@
 Blog CodeIgniter 3
-
+Monolith Website Aplication
+Ui: adminlte
 Db: SQL
 PHP: php7.4
 
@@ -14,5 +15,3 @@ Admin Menu:
 Frontend Menu
 
 100% requirement
-
-
